@@ -41564,5 +41564,19 @@
     "author": "lizhen",
     "description": "Sync WeChat Official Account articles to your vault as Markdown, archived by date. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lizhen0628/obsidian-wechat-sync"
+  },
+  {
+    "id": "kuaifanyi",
+    "name": "快翻译",
+    "author": "BOSS",
+    "description": "选中即译：短词词典模式+长句流式翻译，AI 解释并行渲染，豆包神经语音朗读（支持声音克隆），兼容 DeepSeek 等 OpenAI 格式 API",
+    "repo": "wjzixi/obsidian-kuaifanyi"
+  },
+  {
+    "id": "kuaifanyi",
+    "name": "快翻译",
+    "author": "BOSS",
+    "description": "选中即译：短词词典模式+长句流式翻译，AI 解释并行渲染，豆包神经语音朗读（支持声音克隆），兼容 DeepSeek 等 OpenAI 格式 API",
+    "repo": "wjzixi/obsidian-kuaifanyi"
   }
 ]
